@@ -88,7 +88,7 @@ plt.title('TotalPay vs Years')
 plt.show()
 
 
-# 6-Summary of Insights: Write a brief report summarizing the findings and insights from the analyses.
+# 7-Summary of Insights: Write a brief report summarizing the findings and insights from the analyses.
 
 # The dataset encompasses 148,654 records and 13 columns, providing a detailed perspective on employee compensation. Columns include a mix of numerical and categorical data types, with a notable presence of missing values in 'Benefits', 'Status' and 'Notes.'
 # The distribution of 'TotalPay' exhibits a right-skewed pattern, indicating that a majority of employees receive moderate to lower salaries, with a smaller group earning higher compensation.
